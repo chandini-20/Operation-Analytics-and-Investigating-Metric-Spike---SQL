@@ -1,4 +1,5 @@
-#📊 Operation-Analytics-and-Investigating-Metric-Spike-SQL
+# 📊 Operation-Analytics-and-Investigating-Metric-Spike-SQL
+---
 
 Welcome to this SQL analytics project! This repo contains SQL queries designed to analyze job data and user engagement metrics using **MySQL Workbench 8.0**.
 
