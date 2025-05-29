@@ -2,14 +2,13 @@
 
 Welcome to this SQL analytics project! This repo contains SQL queries designed to analyze job data and user engagement metrics using **MySQL Workbench 8.0**.
 
----
+
 
 ## 🛠️ Technology Stack
 
 - 🗄️ **Database Management & SQL Development:** MySQL Workbench 8.0  
 - 📝 **Query Language:** SQL
 
----
 
 ## 🔍 Project Overview
 
